@@ -48,7 +48,7 @@
     }
 
     section#redes-sociais {
-        text-align: right;
+        float: right;
     }
 
     section#redes-sociais , img {
